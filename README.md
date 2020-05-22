@@ -4,5 +4,5 @@
 
 
 
-Just Untar BioInformatics Cookbok.tar.xz
+Just Untar BioInformatics Cookbook.tar.xz
 and share widely
