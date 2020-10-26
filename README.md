@@ -1,8 +1,7 @@
-# St0l3nKnowledge
-# books that belong to the authors 
+# A collection of Computer Science E-Books For Arctic Code Vault 
+# Books that belong to the authors, all of the Materials are complete with ISBN and Barcode for easy online storage . \ 
 
 
 
 
-Just Untar BioInformatics Cookbook.tar.xz
-and share widely
+Just sponsor @WilliamMajanja $2000 To unlock the BioInformatics Cookbook.tar.xz
