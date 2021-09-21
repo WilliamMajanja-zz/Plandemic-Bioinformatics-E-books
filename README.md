@@ -4,4 +4,4 @@
 
 
 
-Just sponsor https://github.com/WilliamMajanja/Plandemic-Bioinformatics-E-books/commits?author=WilliamMajanja $2000 To unlock the BioInformatics Cookbook.tar.xz
+Just sponsor  William Majnaja $2000 To unlock the BioInformatics Cookbook.tar.xz
